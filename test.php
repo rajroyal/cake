@@ -1,3 +1,3 @@
 <?php 
 
-echo "this is first committed data"; ?>
+echo "I have created this file just for testing of github nothing else"; ?>
